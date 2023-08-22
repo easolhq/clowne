@@ -3,7 +3,7 @@ name: Lint Ruby
 on:
   push:
     branches:
-    - master
+    - support-ruby-3.2-test
   pull_request:
 
 jobs:
